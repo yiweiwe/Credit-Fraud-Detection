@@ -16,3 +16,6 @@ Processed data like normalizing transaction amount variable, and resampled data 
 Constructed five logistic regression models by using scikit-learn package according to different C parameter value
 after using k-Fold Cross Validation method to resample, got best result on training balanced sample dataset with recall
 score 0.95 when C equal to 0.01, got recall score 0.92 on whole test dataset and plotted fancy confusion matrixes
+
+![image](https://user-images.githubusercontent.com/46982385/67971311-f39f6100-fbe2-11e9-8f09-a3d27f20e0d9.png)
+![image](https://user-images.githubusercontent.com/46982385/67971342-00bc5000-fbe3-11e9-9324-b31a543b5e15.png)
